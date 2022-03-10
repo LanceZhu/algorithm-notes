@@ -104,3 +104,7 @@ function PrintFromTopToBottom(root)
     return res
 }
 ```
+
+## 参考
+
+- https://www.cnblogs.com/llhthinker/p/4747962.html
